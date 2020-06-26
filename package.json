@@ -1,0 +1,26 @@
+{
+  "name": "P00_Server",
+  "version": "1.0.0",
+  "description": "JavaScript server for P00",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hdott/Server_P00.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hdott/Server_P00/issues"
+  },
+  "homepage": "https://github.com/hdott/Server_P00#readme",
+  "dependencies": {
+    "mongodb": "^3.5.9",
+    "mongoose": "^5.9.20",
+    "nodemon": "^2.0.4"
+  }
+}
